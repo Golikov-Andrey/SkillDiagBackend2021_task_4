@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillDiagBackend2021_task_4", "SkillDiagBackend2021_task_4.csproj", "{EDB323B2-8465-4F2C-92A1-0679D3B7254F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDB323B2-8465-4F2C-92A1-0679D3B7254F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDB323B2-8465-4F2C-92A1-0679D3B7254F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDB323B2-8465-4F2C-92A1-0679D3B7254F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDB323B2-8465-4F2C-92A1-0679D3B7254F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49D1F2EE-DC64-47C2-B884-E07F03ACD71F}
+	EndGlobalSection
+EndGlobal
